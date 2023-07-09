@@ -7,4 +7,4 @@ Lưu ý: Phải cài đặt Pack trước khi sử dụng với KeilC.
 - Chip: Puya PY32F002A
 - Tần số SYS tối đa 24MHz
 - Tương thích với ARM Complier V5, V6, GNU
-- Tương thích với mạch nạp CMSIS DAP/J-Link
+- Tương thích với mạch nạp ST-LINK V2 / CMSIS DAP / J-Link
